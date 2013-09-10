@@ -1,7 +1,5 @@
 # unixcheats
 
-Curated reference of nifty unix commands.
-
 ```
 man ascii
 
